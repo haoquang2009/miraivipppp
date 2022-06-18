@@ -1,4 +1,4 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨, Hưng 𝐜𝐮𝐭𝐞 🍑 <img src="" width="35"></h1> 
+<h1> 𝐇𝐞𝐥𝐥𝐨, Hào Quang 𝐜𝐮𝐭𝐞 🍑 <img src="" width="35"></h1> 
 
 <p align="center">
     <img align="center" alt="PNG" src="https://c.tenor.com/KhGC_UueKfAAAAAd/kamadonezuko-nezuko.gif" />
@@ -54,7 +54,7 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 **URL (or IP)**: Dán link vừa copy bên **[Replit](https://replit.com/)** 
 - 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
-# 🤝🏻 Connect With hungnongu99
+# 🤝🏻 Connect With Hào Quang
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/tuan.dzz_1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
 &nbsp; <a href="https://www.tiktok.com/@tuandz.1407" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
