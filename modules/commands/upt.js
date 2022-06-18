@@ -118,9 +118,9 @@ registerFont(__dirname + `/tad/CaviarDreams.ttf`, {
     });
     ctx.textAlign = "start";
     ctx.font = "45px time";
-    ctx.fillText("@" + "qhungisme", 930, 540)
-    ctx.fillText("@" + "hungnongu99", 930, 610)
-    ctx.fillText("@" + "hungnongu99", 930, 690)
+    ctx.fillText("@" + "HàoQuang", 930, 540)
+    ctx.fillText("@" + "HàoQuang", 930, 610)
+    ctx.fillText("@" + "HàoQuang", 930, 690)
     ctx.restore();
     ctx.save();
     ctx.beginPath();
