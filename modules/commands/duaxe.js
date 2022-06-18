@@ -5,7 +5,7 @@ const axios = require("axios")
 module.exports.config = {
     name: "duaxe",
     version: "1.0.0",
-    hasPermssion: 2,
+    hasPermssion: 0,
     credits: "...",
     description: "Đua xe lấy top",
     commandCategory: "Game",
