@@ -57,7 +57,7 @@
     "daily": {
         "cooldownTime": 0,
         "rewardCoin": 20000000,
-        "rewardExp": 10000000,
+        "rewardExp": 10,
         "rewardUsages": 100
     },
     "diemdanh": {
@@ -74,7 +74,7 @@
     },
     "menu": {
         "autoUnsend": true,
-        "delayUnsend": 55
+        "delayUnsend": 60
     },
     "rankup": {
         "autoUnsend": true,
