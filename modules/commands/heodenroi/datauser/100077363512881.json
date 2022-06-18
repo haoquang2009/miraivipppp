@@ -1,0 +1,18 @@
+{
+    "name": "Nguyen Khoa M.M",
+    "ID": "100077363512881",
+    "shield": 3,
+    "coins": null,
+    "Island": {
+        "level": 2,
+        "coinsLV": 300,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 31,
+    "timeRegister": "18:19:18, 18/5/2022"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Nguyễn Hưng",
+    "ID": "100011422572422",
+    "shield": 1,
+    "coins": 3087,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 30,
+            "tree": 30,
+            "pool": 30,
+            "pet": 50
+        }
+    },
+    "spin": 34,
+    "timeRegister": "18:19:22, 18/5/2022"
+}
