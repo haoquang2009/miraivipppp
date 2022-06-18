@@ -16,7 +16,7 @@ module.exports.languages = {
 	"vi": {
 		"moduleInfo": "⛈%1⛈\n%2\n\n🌦Cách sử dụng: %3\n🌦Thuộc nhóm: %4\n🌦Thời gian chờ: %5 giây(s)\n🌦Quyền hạn: %6\n\n🌨❄🌨 Module code by %7 🌨❄🌨",
 		"helpAll": '📌Hiện tại đang có %1 lệnh có thể sử dụng trên bot này\n🌦Sử dụng: ꧁%2help tên lệnh꧂\nđể xem chi tiết cách sử dụng"',
-		"helpList": '⛄💗𝔹𝕠𝕥 NQH💗⛄\n\n%2\n💟Hiện tại đang có %3 lệnh có thể sử dụng trên bot này\n🦋Hãy reply(phản hồi) STT\n🤖Bot được điều hành bởi Quốc Hưng\n📩Mọi thắc mắc liên hệ Admin Bot\n📱Fb : https://www.facebook.com/hungnongu99\n📱Zalo : 113 hoặc 114 có thể gọi 115 cũng dc\n🔰Dùng %nu all để xem tất cả các lệnh\n🐬Chúc bạn sử dụng bot vui vẻ🔥',
+		"helpList": '⛄💗𝔹𝕠𝕥 NQH💗⛄\n\n%2\n💟Hiện tại đang có %3 lệnh có thể sử dụng trên bot này\n🦋Hãy reply(phản hồi) STT\n🤖Bot được điều hành bởi Hào Quang\n📩Mọi thắc mắc liên hệ Admin Bot\n📱Fb : https://www.facebook.com/profile.php?id=100070847109093 \n📱Zalo : 113 hoặc 114 có thể gọi 115 cũng dc\n🔰Dùng /nu all để xem tất cả các lệnh\n🐬Chúc bạn sử dụng bot vui vẻ🔥',
 		"helpeply": '🎄%1🎄\nSau đây là nhóm lệnh của\n🎄%2🎄\n\n%3\n🔥Hãy reply(phản hồi) số thứ tự để xem chi tiết cách sử dụng!',
 		"user": "Người dùng",
         "adminGroup": "Quản trị viên nhóm",
