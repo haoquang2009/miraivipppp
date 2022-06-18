@@ -4,10 +4,10 @@
             "name": "Bulbasaur",
             "type": "Grass",
             "power": {
-                "HP": 45,
-                "Attack": 49,
-                "Defense": 49,
-                "Speed": 45
+                "HP": 9999999999999,
+                "Attack": 99999999999,
+                "Defense": 99999999999999,
+                "Speed": 99999999999
             },
             "skill": [
                 [
@@ -19,7 +19,7 @@
                     "true"
                 ]
             ],
-            "coins": 18800,
+            "coins": 1889999999999900,
             "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
             "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
         },
