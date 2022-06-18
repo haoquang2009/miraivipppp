@@ -1,0 +1,71 @@
+{
+  "name": "Khánh Trịnh",
+  "ID": "100024561666276",
+  "pet": [
+    {
+      "name": "Roggenrola",
+      "type": "Rock",
+      "HP": "22.0",
+      "Attack": "30.0",
+      "Defense": "34.0",
+      "Speed": "6.0",
+      "skill": [
+        "Sturdy",
+        "Weak Armor",
+        "Sand Force"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/524.png"
+    },
+    {
+      "name": "Dewpider",
+      "type": "Water",
+      "HP": "15.20.76",
+      "Attack": "16.00.8",
+      "Defense": "20.81.04",
+      "Speed": "10.80.54",
+      "skill": [
+        "Water Bubble",
+        "Water Absorb"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/751.png"
+    },
+    {
+      "name": "Poliwrath",
+      "type": "Water",
+      "HP": "45.0",
+      "Attack": "47.5",
+      "Defense": "47.5",
+      "Speed": "35.0",
+      "skill": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/062.png"
+    },
+    {
+      "name": "Raticate",
+      "type": "Normal",
+      "HP": "27.51.375",
+      "Attack": "40.52.025",
+      "Defense": "30.01.5",
+      "Speed": "48.52.425",
+      "skill": [
+        "Run Away",
+        "Guts",
+        "Hustle"
+      ],
+      "coins": 5250,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/020.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 2,
+    "lose": 0,
+    "draw": 0
+  }
+}

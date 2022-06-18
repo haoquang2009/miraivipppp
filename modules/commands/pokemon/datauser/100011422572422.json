@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Hưng",
+  "ID": "100011422572422",
+  "pet": [
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Speed": 0,
+      "coins": 0,
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 3,
+    "draw": 1
+  }
+}

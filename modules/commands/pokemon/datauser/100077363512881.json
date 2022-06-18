@@ -1,0 +1,74 @@
+{
+  "name": "Nguyen Khoa M.M",
+  "ID": "100077363512881",
+  "pet": [
+    {
+      "name": "Groudon",
+      "type": "Ground",
+      "HP": 9519.759999999998,
+      "Attack": 14269.759999999998,
+      "Defense": 13319.759999999998,
+      "Speed": 8569.759999999998,
+      "coins": 50350,
+      "skill": [
+        "Drought"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": 110.25,
+      "Attack": 157.5,
+      "Defense": 94.5,
+      "Speed": 99.75,
+      "coins": 46200,
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Victini",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Victory Star"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/494.png"
+    },
+    {
+      "name": "Dialga",
+      "type": "Steel",
+      "HP": 100,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 43000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐌𝐨𝐮𝐭𝐡 𝐖𝐚𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐢𝐩 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🌽",
+      "type": "Grass",
+      "HP": "12",
+      "Attack": "12",
+      "Defense": "12",
+      "Speed": "12"
+    }
+  ],
+  "solo": {
+    "win": 2,
+    "lose": 2,
+    "draw": 1
+  }
+}
