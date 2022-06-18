@@ -1,0 +1,53 @@
+{
+  "name": "Nguyễn Hưng",
+  "ID": "100011422572422",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Lost River"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 2,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1930,
+      "countdown": 15,
+      "countdownData": 1652867984832,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "21:26:52, 17/5/2022"
+}

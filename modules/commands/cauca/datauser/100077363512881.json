@@ -1,0 +1,69 @@
+{
+  "name": "Nguyen Khoa M.M",
+  "ID": "100077363512881",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Safe Shallows"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 2,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 5,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1910,
+      "countdown": 15,
+      "countdownData": 1652826575800,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "21:27:04, 17/5/2022"
+}
