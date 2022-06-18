@@ -45,8 +45,7 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 **Copy link** ở trang replit. Link có định dạng **https://miraiv2.nameuser.repl.co**
 - 🍁 **Tạo tài khoản trên trang [UptimeRobot](https://uptimerobot.com/)**
 
-**Thứ tự các thao tác trên [UptimeRobot](https://uptimerobot.com/)**
-
+**npm i ; npm i chalk@4.1.2
 
 - 🍁 **+  Add New Monitor**
 - 🍁 **Monitor Type** chọn **HTTP(s)**
