@@ -43,7 +43,7 @@ module.exports.handleReply = async function ({ api, event, handleReply }) {
 	}
 	const axios = require('axios');
 	const fs = require('fs-extra');
-	const img = [" https://giphy.com/gifs/one-piece-YWB6Hi29vA3jG", " https://giphy.com/gifs/film-z-1195W96ZIyUra8", " https://giphy.com/gifs/one-piece-opgraphics-roronoa-zoro-jO3guf6Wf47T2", " https://giphy.com/gifs/one-piece-zoro-roronoa-c16VBx4QeNq9i", " https://giphy.com/gifs/one-piece-luffy-2enbvOorwd2Io", " https://giphy.com/gifs/funimation-one-piece-y4Vpu2AeAEEh2", " https://giphy.com/gifs/one-piece-luffy-wQroBvfZkusM0", " https://giphy.com/gifs/TOEIAnimationUK-one-piece-kaido-ZBnqbhjQrm4M5bB9k1", " https://giphy.com/gifs/one-piece-roronoa-zoro-QQUEsHquYDjEY", " https://giphy.com/gifs/one-piece-rCdzKS756yiGs"]
+	const img = ["https://giphy.com/gifs/one-piece-YWB6Hi29vA3jG", "https://giphy.com/gifs/film-z-1195W96ZIyUra8", "https://giphy.com/gifs/one-piece-opgraphics-roronoa-zoro-jO3guf6Wf47T2", "https://giphy.com/gifs/one-piece-zoro-roronoa-c16VBx4QeNq9i", "https://giphy.com/gifs/one-piece-luffy-2enbvOorwd2Io", "https://giphy.com/gifs/funimation-one-piece-y4Vpu2AeAEEh2", "https://giphy.com/gifs/one-piece-luffy-wQroBvfZkusM0", "https://giphy.com/gifs/TOEIAnimationUK-one-piece-kaido-ZBnqbhjQrm4M5bB9k1", "https://giphy.com/gifs/one-piece-roronoa-zoro-QQUEsHquYDjEY", "https://giphy.com/gifs/one-piece-rCdzKS756yiGs"]
 	var path = __dirname + "/cache/menu.gif"
 	var rdimg = img[Math.floor(Math.random() * img.length)]; 
 	const imgP = []
